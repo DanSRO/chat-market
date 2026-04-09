@@ -1,0 +1,7 @@
+flask
+flask-jwt-extended
+flask-cors
+python-dotenv
+google-genai
+sqlite3   # já vem com Python
+twilio    # se for usar WhatsApp
